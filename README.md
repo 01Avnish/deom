@@ -1,4 +1,4 @@
 # deom
 this is my first git repo
 <br/>
-author - avnish kumar
+author - changed to (avnish kumar)
